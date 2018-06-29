@@ -1,0 +1,11 @@
+@tailwind preflight;
+
+@tailwind components;
+
+@tailwind utilities;
+
+@tailwind screens;
+
+@import "~video.js/src/css/vjs.scss";
+
+@import "custom";
